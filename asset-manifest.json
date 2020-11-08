@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/jc-root/newRepository.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/jc-root/newRepository.git/static/js/main.31e1dfac.chunk.js",
-    "main.js.map": "/jc-root/newRepository.git/static/js/main.31e1dfac.chunk.js.map",
+    "main.js": "/jc-root/newRepository.git/static/js/main.063aff0b.chunk.js",
+    "main.js.map": "/jc-root/newRepository.git/static/js/main.063aff0b.chunk.js.map",
     "runtime-main.js": "/jc-root/newRepository.git/static/js/runtime-main.5aa9b6bf.js",
     "runtime-main.js.map": "/jc-root/newRepository.git/static/js/runtime-main.5aa9b6bf.js.map",
-    "static/js/2.d325ffac.chunk.js": "/jc-root/newRepository.git/static/js/2.d325ffac.chunk.js",
-    "static/js/2.d325ffac.chunk.js.map": "/jc-root/newRepository.git/static/js/2.d325ffac.chunk.js.map",
+    "static/js/2.4010fd59.chunk.js": "/jc-root/newRepository.git/static/js/2.4010fd59.chunk.js",
+    "static/js/2.4010fd59.chunk.js.map": "/jc-root/newRepository.git/static/js/2.4010fd59.chunk.js.map",
     "static/js/3.ead125a8.chunk.js": "/jc-root/newRepository.git/static/js/3.ead125a8.chunk.js",
     "static/js/3.ead125a8.chunk.js.map": "/jc-root/newRepository.git/static/js/3.ead125a8.chunk.js.map",
     "index.html": "/jc-root/newRepository.git/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/jc-root/newRepository.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d325ffac.chunk.js.LICENSE.txt": "/jc-root/newRepository.git/static/js/2.d325ffac.chunk.js.LICENSE.txt",
+    "static/js/2.4010fd59.chunk.js.LICENSE.txt": "/jc-root/newRepository.git/static/js/2.4010fd59.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/jc-root/newRepository.git/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5aa9b6bf.js",
-    "static/js/2.d325ffac.chunk.js",
+    "static/js/2.4010fd59.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.31e1dfac.chunk.js"
+    "static/js/main.063aff0b.chunk.js"
   ]
 }
